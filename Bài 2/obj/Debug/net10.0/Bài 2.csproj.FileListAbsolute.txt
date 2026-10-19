@@ -1,0 +1,28 @@
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.AssemblyInfoInputs.cache
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.AssemblyInfo.cs
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.csproj.CoreCompileInputs.cache
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\bin\Debug\net10.0\Bài 2.exe
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\bin\Debug\net10.0\Bài 2.deps.json
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\bin\Debug\net10.0\Bài 2.runtimeconfig.json
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\bin\Debug\net10.0\Bài 2.dll
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\bin\Debug\net10.0\Bài 2.pdb
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.dll
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\obj\Debug\net10.0\refint\Bài 2.dll
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.pdb
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.genruntimeconfig.cache
+E:\Tài liệu\UEH\CTDLVGT\Buoi 2\CTDLGT-Buoi02-35253020259\Bài 2\obj\Debug\net10.0\ref\Bài 2.dll
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\bin\Debug\net10.0\Bài 2.exe
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\bin\Debug\net10.0\Bài 2.deps.json
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\bin\Debug\net10.0\Bài 2.runtimeconfig.json
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\bin\Debug\net10.0\Bài 2.dll
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\bin\Debug\net10.0\Bài 2.pdb
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.AssemblyInfoInputs.cache
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.AssemblyInfo.cs
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.csproj.CoreCompileInputs.cache
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.dll
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\obj\Debug\net10.0\refint\Bài 2.dll
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.pdb
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\obj\Debug\net10.0\Bài 2.genruntimeconfig.cache
+D:\UEH\CTDL\CTDLGT-Buoi02-BoSung-35253020259\Bài 2\obj\Debug\net10.0\ref\Bài 2.dll
