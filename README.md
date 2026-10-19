@@ -106,7 +106,3 @@ Các ca kiểm thử
 5. Ghi số phần tử được sao chép mỗi lần mở rộng: 4 phần tử khi tăng
    4 → 8, và 8 phần tử khi tăng 8 → 16.
 
-   Khai báo sử dụng AI
-Tôi đã sử dụng ChatGPT để hỗ trợ giải thích yêu cầu, gợi ý cách làm, xây
-dựng ca kiểm thử và hướng dẫn soạn README. Tôi đã chạy thử chương trình, kiểm tra
-kết quả và chịu trách nhiệm về mã nguồn cùng nội dung nộp bài.
